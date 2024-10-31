@@ -1,0 +1,12 @@
+@media screen and (max-width:782px) {
+#wpadminbar #wp-admin-bar-open-social-debugger .ab-icon:before {
+    content: '\f13a';
+    top: 9px;
+	display: block;
+font-size: 28px;
+}
+
+#wpadminbar #wp-admin-bar-open-social-debugger {
+display: block;
+}
+}
